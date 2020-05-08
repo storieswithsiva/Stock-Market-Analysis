@@ -10,8 +10,8 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Stock-Market-Analysis.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Stock-Market-Analysis.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Stock-Market-Analysis.svg?logo=python&style=social)](https://github.com/iamsivab)
 
 #### Few popular hashtags - 
-### `#R` `#MachineLearning` `#NLP`
-### `#patternlearning` `#BagofWords` `#textanalytics`
+### `#` `#` `#`
+### `#` `#` `#`
 
 ### Motivation
 
